@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Felipe Fioravanti",
+    "occupation":"desenvolvedor front-end",
+    "description":"Atualmente, dedico meu tempo livre desenvolvendo aplicações, buscando sempre aprimorar o meu conhecimento. Sou determinado em meus afazeres e tenho um senso-crítico bem desenvolvido. Gosto de trabalhar em equipe e tenho uma ótima comunicação interpessoal. Vem me conhecer :D ",
+    "image":"profilepic.jpg",
+    "bio":"Sou estagiário desenvolvedor de software na empresa Vivest e lá utilizamos Angular e .NET Core. Quando estou em casa, dedico o meu tempo criando aplicações ReactJS, ReactNative e APIs Rest com Node. Sou bastante extrovertido e posso germinar ótimos frutos para a sua empresa =)",
+    "contactmessage":"Preencha o formulário abaixo e aguarde a minha resposta.",
+    "contactwppmessage":"Entrar em contato imediatamente clicando no botão ou fazendo a leitura do QR Code.",
+    "email": "felipefioravanti@live.com",
+    "phone": "+55 (11) 99565-8757",
+    "address":{
+      "street":"Rua Serra do Japi",
+      "city":"Mairiporã",
+      "state":"São Paulo",
+      "zip": "07606-195"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"curriculo_cia_estagios.pdf",
+    "linkwhatsapp": "https://api.whatsapp.com/send?phone=5511995658757&text=Agrade%C3%A7o%20o%20contato,%20irei%20te%20responder%20em%20at%C3%A9%20algumas%20horas%20=)",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/felipe.fioravanti/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/lipefioravanti",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/felipedeveloper/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_felipefioravanti/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/felipefioravanti",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Abaixo estão as principais skills que adquiri ao longo de minha trajetória.",
+    "education":[
+      {
+        "school":"FIAP",
+        "degree":"Sistemas de Informação",
+        "graduated":"Dezembro 2020",
+        "description":"Foram desenvolvidos conhecimentos que vão de hardware a Inteligência Artificial e IoT, passando por gestão empresarial, aplicações web, mobile, games, engenharia de software, governança de TI, banco de dados, redes de computadores, Business Intelligence, análise de sistema e programação orientada a objetos, segurança da informação e muito mais."
+      },
+      {
+        "school":"Wise Up - Inglês para Adultos",
+        "degree":"Língua Inglesa",
+        "graduated":"Incompleto - Intermediate Three",
+        "description":"No curso, aprimorei muito as minhas habilidades de listening e o meu vocabulário. Por conta do curso não me trazer novos desafios, eu optei por finalizar no módulo intermediário - 3, visto ser um curso caro e eu não estava sentindo mais evolução a partir de certo ponto."
+      }
+    ],
+    "work":[
+      {
+        "company":"Vivest",
+        "title":"Estágio - Desenvolvimento de Software",
+        "years":"Fevereiro 2020 - Atual",
+        "description":"Desenvolvimento em Angular / .NET Core, sustentação de sistemas (correção e melhorias), controle de versão, aplicação e programas, Oracle e participação em projetos"
+      },
+      {
+        "company":"IBM Brasil",
+        "title":"Consultor Sap SD - Junior",
+        "years":"Setembro 2017 - Agosto 2019",
+        "description":"Prestação de serviços de consultoria ao cliente: Analise de sistemas, levantamento de processos/requisitos, aplicação de testes, análise de funcionalidade e elaboração de documentação técnica."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"React-Native",
+        "level":"50%"
+      },
+      {
+        "name":"API Rest",
+        "level":"60%"
+      },
+      {
+        "name":"CSS/Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Oracle",
+        "level":"80%"
+      },
+      {
+        "name":"Sap ERP - Sales and Distribuction",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"O Estado de São Paulo",
+        "category":"Sustentação de Sistemas-Sap SD",
+        "image":"estadao_logo.png",
+        "url":"https://www.estadao.com.br/"
+      },
+      {
+        "title":"Familinvest",
+        "category":"Projeto de sustentação do novo sistema de previdência da Vivest",
+        "image":"vivest_logo.png",
+        "url":"https://www.vivest.com.br/site/"
+      },
+      {
+        "title":"NLW 3 - HAPPY",
+        "category":"O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz",
+        "image":"logo_rocketseat.jpeg",
+        "url":"https://github.com/felipefioravanti/nlw-03"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"O Felipe é um profissional responsável e dedicado. Super dedicado nos seus afazeres, ele consegue resolver os problemas da empresa com muita agilidade.",
+        "user":"Murilo Pascoal"
+      }
+    ]
+  }
+}
