@@ -2,9 +2,9 @@
   "main": {
     "name":"Felipe Fioravanti",
     "occupation":"desenvolvedor front-end",
-    "description":"Atualmente, dedico meu tempo livre desenvolvendo aplicações, buscando sempre aprimorar o meu conhecimento. Sou determinado em meus afazeres e tenho um senso-crítico bem desenvolvido. Gosto de trabalhar em equipe e tenho uma ótima comunicação interpessoal. Vem me conhecer :D ",
+    "description":"Atualmente, dedico meu tempo livre desenvolvendo aplicações. ",
     "image":"profilepic.jpg",
-    "bio":"Sou estagiário desenvolvedor de software na empresa Vivest e lá utilizamos Angular e .NET Core. Quando estou em casa, dedico o meu tempo criando aplicações ReactJS, ReactNative e APIs Rest com Node. Sou bastante extrovertido e posso germinar ótimos frutos para a sua empresa =)",
+    "bio":"Sou estagiário desenvolvedor de software na empresa Vivest e lá utilizamos Angular e .NET Core. Quando estou em casa, dedico o meu tempo criando aplicações com abordagem SPA, utilizando frameworks e bibliotecas como AngularCLI, ReactJS, ReactNative e APIs Rest com Node. Espero poder atender as suas expectativas =)",
     "contactmessage":"Preencha o formulário abaixo e aguarde a minha resposta.",
     "contactwppmessage":"Entrar em contato imediatamente clicando no botão ou fazendo a leitura do QR Code.",
     "email": "felipefioravanti@live.com",
@@ -78,22 +78,6 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"70%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"65%"
-      },
-      {
-        "name":"React-Native",
-        "level":"50%"
-      },
-      {
-        "name":"API Rest",
-        "level":"60%"
-      },
-      {
         "name":"CSS/Bootstrap",
         "level":"80%"
       },
@@ -102,12 +86,44 @@
         "level":"80%"
       },
       {
+        "name":"Sap - SD",
+        "level":"80%"
+      },
+      {
         "name":"Oracle",
         "level":"80%"
       },
       {
-        "name":"Sap ERP - Sales and Distribuction",
-        "level":"80%"
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript/Typescript",
+        "level":"70%"
+      },
+      {
+        "name":"Metodologia Ágil/Jira",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"API Rest",
+        "level":"60%"
+      },
+      {
+        "name":"Node JS",
+        "level":"60%"
+      },
+      {
+        "name":"Angular CLI",
+        "level":"50%"
+      },
+      {
+        "name":"React-Native",
+        "level":"50%"
       }
     ]
   },
@@ -136,7 +152,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"O Felipe é um profissional responsável e dedicado. Super dedicado nos seus afazeres, ele consegue resolver os problemas da empresa com muita agilidade.",
+        "text":"Trabalhamos juntos no ano de 2018. Posso dizer que o Felipe é um profissional responsável e dedicado. ",
         "user":"Murilo Pascoal"
       }
     ]
